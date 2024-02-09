@@ -62,3 +62,9 @@ In order to keep a clean overview containing all contributed modules, the follow
 ## Extra
 
 https://docs.opencv.org/4.x/d5/d29/tutorial_dnn_superres_upscale_image_single.html
+
+# Nvidia Super Resolution
+
+![image](https://github.com/Shaurya0108/opencv_test_projects/assets/67282772/3fd1c7f0-6d80-4607-a32e-f35f878cb2d4)
+
+https://blogs.nvidia.com/blog/rtx-video-super-resolution/#:~:text=The%20technology%20uses%20a%20deep,image%20at%20the%20target%20resolution.

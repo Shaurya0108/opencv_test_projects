@@ -58,3 +58,7 @@ In order to keep a clean overview containing all contributed modules, the follow
 1. Update the README.md file under the modules folder. Here, you add your model with a single-line description.
 
 2. Add a README.md inside your own module folder. This README explains which functionality (separate functions) is available, links to the corresponding samples, and explains in somewhat more detail what the module is expected to do. If any extra requirements are needed to build the module without problems, add them here also.
+
+## Extra
+
+https://docs.opencv.org/4.x/d5/d29/tutorial_dnn_superres_upscale_image_single.html
